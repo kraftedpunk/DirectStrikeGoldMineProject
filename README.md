@@ -111,6 +111,8 @@ THe simulation does not take into account tech or hero timings. You can get away
 
 FInally, if this statrategy becomes popular the average game length will surely go down if the opposite team scouts you and takes advantadge of your timings. As the game stands (5/16/25) less than 5% of games end before 17:30 mnutes. This could increase as this strategy gains popularity. 
 
+No way to filter game length by ELO rating
+
 Be sure to communicate your plans to your team.
 
 
